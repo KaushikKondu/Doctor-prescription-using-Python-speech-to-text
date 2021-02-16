@@ -6,4 +6,4 @@ The Speech to text convertor converts the speech and creates a digital prescript
 
 PREREQUISITES:
 
-The Code Requires to be imported before they can be used.
+The Code Requires dependencies that have to be  installed and imported before they can be used.
